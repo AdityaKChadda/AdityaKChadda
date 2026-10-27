@@ -9,4 +9,4 @@ Python, Data Science, Machine learning, and AI — building one project at a tim
 Oracle PL/SQL · Power BI · Python · Git
 
 ### Connect
-[LinkedIn](www.linkedin.com/in/aditya-kamal-chadda)
+[LinkedIn](https://www.linkedin.com/in/aditya-kamal-chadda)
