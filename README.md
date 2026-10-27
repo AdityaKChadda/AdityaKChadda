@@ -1,6 +1,6 @@
 # Hi, I'm Aditya 👋
 
-I work as a Sr. Business Intelligence Analyst at nirvanaHealth.
+I work as a **Sr. Business Intelligence Analyst** at nirvanaHealth.
 
 ### What I'm learning
 Python, Data Science, Machine learning, and AI — building one project at a time.
